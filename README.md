@@ -1,7 +1,7 @@
 # Thundra Debugger
 <em>Issue repository for Thundra Debugger Intellij Plugin</em>
 
-Start online debug sessions while the AWS Lambda functions run on AWS Cloud. Thundra sets up an easy and secure connection between your AWS Lambda functions and VSCode. Debug your serverless applications natively with their own permissions. Stop mocking resources and simulating the environments! Put breakpoints and pause the execution of the Java functions to see the stack trace.
+Start online debug sessions while the AWS Lambda functions run on AWS Cloud. Thundra sets up an easy and secure connection between your AWS Lambda functions and Intellij IDEA. Debug your serverless applications natively with their own permissions. Stop mocking resources and simulating the environments! Put breakpoints and pause the execution of the Java functions to see the stack trace.
 
 ![Thundra Debugger Demo](resources/thundra-intellij.gif)
 
